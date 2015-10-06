@@ -1,6 +1,6 @@
 ---
 layout: page
-title:hello!
+title: HELLO!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -13,7 +13,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : My Blog = 你好)
     
     author :
       name : Name Lastname
