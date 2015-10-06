@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HELLO!
-tagline: Supporting tagline
+title: 陈丽云的博客!
+tagline: 分享小技术
 ---
 {% include JB/setup %}
 
